@@ -8,3 +8,5 @@
 # todo
 * on-chain transactions, gas management
 * polygon-read-contract
+
+* check how accounts are funded -- and deposits out
